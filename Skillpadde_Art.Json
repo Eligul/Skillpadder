@@ -1,8 +1,8 @@
 {
-    "tittel" : "Skilpadder",
-    "Skillpadder" : [
+    "tittel" : "Skillpadde Arter",
+    "skillpadder" : [
         {"navn" : "Snappeskilpadde" , "lengde" : "49cm"},
-        {"navn" : "Flatback skilpadde" , "Lengde" : "~90cm"},
-        {"navn" : "Glattkarett" , "Lengde" : "70cm - 100cm"}
+        {"navn" : "Flatback skilpadde" , "lengde" : "~90cm"},
+        {"navn" : "Glattkarett" , "lengde" : "70cm - 100cm"}
     ]
 }
